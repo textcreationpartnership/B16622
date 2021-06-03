@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings of the new parliament of women sitting at Gossips-Hall, near Knock-Vergies whereunto is annexed the languishing maidens petition against the widows who have been blessed with the enjoyment of three or four several husbands : here is also a severe course against those widdowers that shall attempt to marry, knowing their own inability as not being able to satisly the longing expectations of their espoused bride : likewise a severe punishment to be inflicted upon batchellors that promise more than they can do ...</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16622</idno><idno type="EEBO-CITATION">12623582</idno>
+  <idno type="VID">199281</idno>
+  <idno type="EEBO-PROQUEST">2240963840</idno>
+  
+            <idno type="STC">Wing A370</idno>
+            <idno type="OCLC">12623582</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:10a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings of the new parliament of women sitting at Gossips-Hall, near Knock-Vergies whereunto is annexed the languishing maidens petition against the widows who have been blessed with the enjoyment of three or four several husbands : here is also a severe course against those widdowers that shall attempt to marry, knowing their own inability as not being able to satisly the longing expectations of their espoused bride : likewise a severe punishment to be inflicted upon batchellors that promise more than they can do ...</title>
+               </titleStmt>
+               <extent>[9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Coniers ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The new parliament of women.</note>
+                  <note>Place and date of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Newberry Library.</note>
+                  <note>Bound with Wing S3055, M271A, N708, B6325. Each item has special title page and seperate pagination.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199281:1"/>
+            <pb facs="tcp:199281:1"/>
+            <p>
+               <hi>An Account of the Proceedings of the</hi> New Parliament OF WOMEN Sitting at <hi>Gossips-hall,</hi> near <hi>Knock-Vergies</hi>
+            </p>
+            <p>Whereunto is annexed the languishing Maidens Pe<g ref="char:EOLhyphen"/>tition against the Widows, who have been blessed with the enjoyment of three or four several Husbands.</p>
+            <p>Here is also a severe course against those Widdowers that shall attempt to marry, knowing their own inability, as not being able to satisfy the longing expectations of their es<g ref="char:EOLhyphen"/>poused Bride.</p>
+            <p>LIKEWISE A severe punishment to be inflicted upon Batchellors that pro<g ref="char:EOLhyphen"/>mise more than they can do, with many other excellent laws made by this Parliament of Women: Worthy of your taking notice; And cheap enough considering the goodness.</p>
+            <lg>
+               <l>These Females they consider'd well</l>
+               <l>The want of wholesome flesh:</l>
+               <l>And cause no maidens should repine</l>
+               <l>These Laws they made afresh:</l>
+               <l>Which I do hope will give content</l>
+               <l>To all that read the same;</l>
+               <l>Who speaks against this Parliament</l>
+               <l>I think are much to blame.</l>
+               <l>This thing for mirth I did intend,</l>
+               <l>Then do not blame my pen,</l>
+               <l>Who seems to be the womens friend</l>
+               <l>But wish no hurt to men.</l>
+            </lg>
+            <p>Printed for <hi>J. Coniers</hi> at the black Raven in Duck Lane.</p>
+         </div>
+         <div type="list">
+            <pb facs="tcp:199281:2"/>
+            <head>An Account, or true List of the names of the Mem<g ref="char:EOLhyphen"/>bers of both Houses, Viz.</head>
+            <list>
+               <item>Sarah Snapshort.</item>
+               <item>Rebeceah Ragmanners.</item>
+               <item>Luce Lack wit.</item>
+               <item>Clinor Empty-braine.</item>
+               <item>Margaret Make-bate.</item>
+               <item>Dorithy Drinkwell.</item>
+               <item>Frances Fiddle-faddle.</item>
+               <item>Ione Iezebel.</item>
+               <item>Susan Shatterbrain.</item>
+               <item>Priseilla Pickthanks.</item>
+               <item>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ralewell.</item>
+            </list>
+            <p>All of the Upper-house.</p>
+            <list>
+               <item>Tibitha Trumpw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</item>
+               <item>Lyddy Long-tongue.</item>
+               <item>Alice Allcock</item>
+               <item>Iane Iumbler.</item>
+               <item>Ioyce Ioynwell.</item>
+               <item>Mary Make-horn.</item>
+               <item>Katherine <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep-noise.</item>
+               <item>Ann Ape-like.</item>
+               <item>Penelope Plague-man.</item>
+               <item>Abigail All-whore.</item>
+               <item>Christian Closemouth.</item>
+               <item>Rachell Rouzeall.</item>
+            </list>
+            <p>Of the Lower-House.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:199281:2"/>
+            <head>
+               <hi>An Account of the Proceedings of the</hi> New Parliament of WOMEN, &amp;c.</head>
+            <p>THe Session of the <hi>Parliament of Women</hi> being ordered to meet on the 32 day of <hi>January</hi> about ten days before <hi>Michaelmas</hi> in the year 7902. They accordingly assem<g ref="char:EOLhyphen"/>bled, and being met in a full house, there was a petition exhibited by the distressed Maids of the Nation, greatly complaining of their unspeakable want, and also exclaiming against several Widows, who, against reason, had been over-occupyed by several Husbands, while, on the contrary, these poor Maidens were ready to starve for a bitt of Man's-Flesh: The Contents of the pe<g ref="char:EOLhyphen"/>tition take as followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>May it please your Ladyships,</opener>
+                  <p>
+                     <hi>WEE,</hi> your most humble and distressed petitioners, whose names are hereunder subscribed, having for many years together la<g ref="char:EOLhyphen"/>boured under the burthen of our tormenting maidenheads, have, with a great deal of impatience, expected some manner of redress, hoping that in some reasonable time our wants might be supply'd by some charitable thumping fellows, whose youthfull activity, and wanton inclinations, might have put a period to our miseries, and have made us happy by the enjoyment of that, which alone can make our Lives comfortable; But finding to our unexpressable discontent, that our hopes are utterly frustrated by the increase of our years, which begin to make us contemptible in the sight of those from whom we once expected to receive satisfaction. <hi>Wee</hi> your poor distressed petitio<g ref="char:EOLhyphen"/>ners, thought it not only expedient, but absolutely necessary, to address our selves to your Lady-ships, whose large experience, and long-accustomed practise in that which we so much stand in need of, cannot but make you sensible that our miseries are not only admira<g ref="char:EOLhyphen"/>ble,
+<pb facs="tcp:199281:3"/> but altogether insupportable: And the more especially when we reflect upon their happinesses, whose kind fate hath made them hap<g ref="char:EOLhyphen"/>py, by the Quotidian and Nocturnall Enjoyments; the wants of which, do render us of all creatures the most unfortunate. Oh! be pleased to call to mind, that when you were in your Youth and prime before you tasted of that bliss, which hath long since crowned you with joy, how despiseable were your lives to your own selves, how unwelcome were the days to your eyes, when the nights afforded not so much as a taste of those pleasures that we poor Creatures could never yet be acquainted with. Thus hoping that you will diligently peruse the sad contents of our mournful petition, which if you right<g ref="char:EOLhyphen"/>ly con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der, and speedily find out some redress for, together with ta<g ref="char:EOLhyphen"/>king a reall inspection into the vast difference between us un-done maidens, and over-done Widows, we shall not in any measure doubt, but to receive full satisfaction from your▪ Ladyship's cares and pru<g ref="char:EOLhyphen"/>dence, that may in some measure add some manner of comforts to our despairing Spirits, and free us from the fear of our (otherwise) approaching death. Wee humbly beseech your favours to pass a charitable censure upon this our enforced boldness, and let our pre<g ref="char:EOLhyphen"/>sent and lamentable state be freely, and thoroughly discussed and de<g ref="char:EOLhyphen"/>bated in your great Synod of unbyassed ingenuity.</p>
+                  <closer>And your petitioners shall ever pray <hi>&amp;c.</hi>
+                     <signed>
+                        <list>
+                           <item>Lettice Lackman,</item>
+                           <item>Margery Mournfor't,</item>
+                           <item>Phillis Prick-sick,</item>
+                           <item>Diana Doe-well, <hi>&amp;c.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The petition being read, the matter was debated, <hi>Lettice Lack<g ref="char:EOLhyphen"/>man</hi> pleaded in the behalf of the rest; that things were illegally car<g ref="char:EOLhyphen"/>ryed, and they had not equity done them: For, said she, when I began to grow toward Thirteen years old, I then was possessed with a strange kind of Malady, which filled me with such a longing de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire, that my thoughts I could have even begged a kiss of every man I saw pass the street; Nay, I was also perplexed in my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery dreams, that when I awaked I was almost stark mad; for I found my self tumbled into the Abyss of misery, when in my dreams I supposed my self to be at the very heigth of bliss. Then, said <hi>Rose Ralewell,</hi> How long did you languish in this Labyrinth of trouble, without finding any ease or help? Truly, quoth she, even to this day, but it was sore a<g ref="char:EOLhyphen"/>gainst my will, for such was my ill fortune, that I was never so
+<pb facs="tcp:199281:3"/> much as once moved to part with my maidenhead; for I'le assure you if I had, I would have accepted of the motion willingly, as many I believe have done before me; nay, I believe there is but a few that would deny it. Hold, hold, have a care what you say, you will re<g ref="char:EOLhyphen"/>flect upon the House by and by, such comparisons are not seemly in this place, or at this time; but I must needs confess, that I could hard<g ref="char:EOLhyphen"/>ly have undergone so great trouble and ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation as you have done; for I was but a matter of sixteen years old e're I was acquainted with Bridall enjoyments, and I am confident, had I not been mar<g ref="char:EOLhyphen"/>ryed as I was, I could not have lived one year more without a Tickler.</p>
+            <p>Why then, I hope your Goodness will take into consideration our conditions; we are all of the same stamp and mould, we are as un<g ref="char:EOLhyphen"/>capable of living without the enjoyment of our delights, as ever you could be; our minutes seem to be houres, while we thus languish in perplexity: we are not able to eat, drink, or rest, wanting the sup<g ref="char:EOLhyphen"/>plys which our Natures look for; and to be short, we neither can nor will live long in this disquietude. Why, what would you have us do? said <hi>Luce Lackwitt,</hi> Why make an Act that we should all have Husbands, and that speedily too, for we have lost too much time i<g ref="char:EOLhyphen"/>dly, and have not been exercised as marryed women are often, the more is our grief to think on't; but if you cannot with conveniency effect what is proposed, do as they do in Venice, set up, and tolle<g ref="char:EOLhyphen"/>rate some publique places, where Love sick maids may find ease, by the association of merry boys, who only can administer comfort to them in their distress. It hath partly been acknowledged by one Member of this House, that we have had hard fortune, and, indeed, so it is: For who can indure to see some old withered faces handed along by brisk young gallants? who tender them for nothing but their money, having not so much as one grain of beauty left; look but upon them, view them well when they are in their best Array, all powdered, and patched, and you will find them, if your aspect be curious, to resemble nothing more than death's Head enamel'd. And what a plague is this to young Creatures to see and behold: Is any flesh alive able to endure it? Can this misery be undergone with pa<g ref="char:EOLhyphen"/>tience? 'tis a torment to consider what pleasures other people enjoy in their beds, while we poor Creatures lye melting away in Tears, or wasting with s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghs, and have nothing at all to do, but that which indeed we cannot do, I mean sleep, which now grows almost a stran<g ref="char:EOLhyphen"/>ger to us. Well, said my Lady <hi>Lackwitt,</hi> we will see what may be
+<pb facs="tcp:199281:4"/> done in this business: Nay, quoth Lettice Lackman, it is not what may be done, but what must be done; And pray mind that we that have lost the prime of our years without tasting the bliss, may be considered in some extraordinary manner, either by being allowed Two Husbands, or, at least, a Husband and a Friend, that we may regain our lost time; for I am sure we can deal well enough with them: It is not with us as it is with men, that when they come to some considerable age, they grow feeble, and cannot please; But we of our Sex can take it both briskly and freely when we are well striken in years, especially when we have lived so long without it. Come come (saith <hi>Margaret Makebate</hi>) you are somewhat too greedy, let's hear what another saith, you must not be only discour<g ref="char:EOLhyphen"/>sed. Then up starts <hi>Alice Alcock,</hi> who justified, That what was be<g ref="char:EOLhyphen"/>fore discoursed was nothing but reason, and she hoped it was to pass thorough the Judicious Assembly: And as for my part my Name is a trouble to me, for there is a vast difference between <hi>Al-cock</hi> and no <hi>Cock;</hi> and I am sure there never was one inch fell to my share yet, though I would give one of my eyes for a good one. Well (sayes <hi>Margaret Make-bait</hi>) 'tis pitty that thou shouldst not have one; that loves so dearly as to part with one of your eyes for one. Oh! quoth <hi>Alice,</hi> that's nothing in comparison: How many have gone distra<g ref="char:EOLhyphen"/>cted for want of a Rowzer; and in their distraction hanged them<g ref="char:EOLhyphen"/>selves: Come let me tell you, 'tis a sad thing to want it, and indeed there is no living without it, yea; I believe there hath never been such a complaint before as will be now made if you enquire strictly into the matter; for, if you examine us all, you will find us all in one tale; or if any do differ, 'twil be but more to set forth our misery: Therefore we desire your commiseration, and hope to receive finall satisfaction from you by a speedy result.</p>
+            <p>Whereupon they were commanded to acquit the House, till such time as they were again called. Then <hi>Prudens Prateall</hi> opened the matter very exquifitively, in the behalf of the petitioners, alleadging that their condition was very deplarable; For, said she, how great a difficulty is it to live without a man, when we in our own consciences know that we cannot be contented with one, we that are married, but we must now and then violate the bonds of Matrimony by wronging the Bridall bed: And if it be so, that we that have been long accusto<g ref="char:EOLhyphen"/>med to the pleasures of love, cannot possibly be limitted within the bounds of chastity, how is it possible that they who never injoy'd that
+<pb facs="tcp:199281:4"/> happiness, can rest satisfy'd: Let us ingeniously consider with our selves; and pass some Act of Oblivion for what transgressions have already been; and also an additional Act for more liberty, for 'tis my opinion that some are born under some ill aspect, that they may never be marryed; and is it reason they should never taste in their whole life time the sweets that others wallow in? No, no, as we are all of one Sex, let us give liberty to those who are not marryed, to use what op<g ref="char:EOLhyphen"/>portunities they can meet with to their best advantage, for otherwise, we shall create much trouble to our selves; and without question they will steale what our too modest Laws shall forbid. Therefore let us do as we would be done by, for we should not like to have an Embargo laid upon our commodities. Then spoke <hi>Rose Ralewell,</hi> you have spoke reason, for I have a Husband, such a one as it is, that seldome doth any more to me than make a Fool of that which will not be so ser<g ref="char:EOLhyphen"/>ved, and to tell you the truth, I am fain to borrow of my Neighbours, what I cannot be supply'd withal at home; which, if my husband were like other men, I should not need to do. Then said <hi>Ioyce Ioynwell,</hi> Hush, hush, talk no more of that, for I have a Husband young and brisk enough, but yet mythinks sometimes variety is so sweet, that I now and then must taste of changeable dyet, and then if it be so with us that have of our own, what must them poor Creatures do that have not? Oh! methinks I can remember, when it was my sad case, how I lin<g ref="char:EOLhyphen"/>gred, how I longed, and in what a dismall case I reckoned my self to be in▪ Come, 'tis good to be charitable, let us commiserate these poor Creatures, we are perfectly sensible of their necessities. These manner of debates held for some considerable time, but most of them being sensible of the truth of what was spoken, did Vote for Liberty for maidens that could get no Husbands, and that they might accept of what kindnesses were offered to them. But as for Widows that had lived above Twenty years in Matrimony, and had surpassed the date of Fifty, they should not be allow'd above one Husband, if he be young; or if he be older than her self, two friends, because one may be sometimes ill, and not in a condition to pleasure her, or some<g ref="char:EOLhyphen"/>times one may be out of Town, and cannot visit; and for these rea<g ref="char:EOLhyphen"/>sons we are willing to allow of a provision in necessity, for I suppose some of us Members are troubled with old fumbling fellows, that have almost forgot how to do the trick, they do so seldome use it. And in what a case should we be in then, if we had not a friend in a corner: Come sirs Members as we are, are Representatives of the whole sex,
+<pb facs="tcp:199281:5"/> and we ought in point of reason, and conscience, so to establish our Laws, as that they may be for the satisfaction of all. Just as they had determined this matter, in comes <hi>Christian Closemouth</hi> to make complaint, who exhibited her Bill; the contents whereof take as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <p>
+               <hi>Imp imis,</hi> That she had been marryed to her Husband Ten weeks, and she found that he had not got her with Child, neither did she be<g ref="char:EOLhyphen"/>lieve he could, for he was so short breath'd, that he was ready to give over before she came to the heighth of the sport, and so dry withal, that one might as easily get a tear from a hot Iron, as one drop of li<g ref="char:EOLhyphen"/>quidity from his dryed body. But the matter seeming somewhat in<g ref="char:EOLhyphen"/>trocate, and they having sate till their Tongues were weary, the Court adjourned till the next week following, where we will leave them, and pitty poor <hi>Christian Closemouth,</hi> waiting with a great deale of impatience for the next sitting; of which I shall give you timely notice.</p>
+            <p>The day being come, both Houses assembled, and did further pro<g ref="char:EOLhyphen"/>ceed about the business afore-mentioned: so after a strong debate, it was agreed upon by a generall consent, that what was petitioned for was nothing but reason in any Womans conscience. Which Laws you shall here have inserted as they were agreed upon in course.</p>
+            <list>
+               <item>Imprimis. <hi>That for the prevention of stealing opportunities of kind<g ref="char:EOLhyphen"/>ness, that Maids, after the terme of Seventeen years of age, shall, and may freely accept of what tender-hearted youngmen do freely offer.</hi>
+               </item>
+               <item>Item. <hi>That there shall be no Embargo upon womens commodities.</hi>
+               </item>
+               <item>Item. <hi>That those that have old feeble Husbands, may entertain a lusty young gallant.</hi>
+               </item>
+               <item>Item. <hi>That Batchellors shall be very kind to maids, and women, under the forfeiture of being gelded.</hi>
+               </item>
+               <item>Item. <hi>That Widows above Forty shall be contented with one Hus<g ref="char:EOLhyphen"/>band, and one Friend.</hi>
+               </item>
+               <item>Item. <hi>That Widowers shall not presume to marry, except they they know themselves capable of doing family duty, under the penalty of being cornuted.</hi>
+               </item>
+               <item>Item. <hi>That men shall not be jealous, though they see their wives in bed with other men.</hi>
+               </item>
+               <item>Item. <hi>That if a youngman of 21 shall be in bed with a girl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of 19 and shall not do the trick, shall forfeit his Codlins.</hi>
+               </item>
+            </list>
+            <lg>
+               <l>Thus as this Parliament broke up</l>
+               <l>That these good laws had made,</l>
+               <l>The women they were well content</l>
+               <l>These laws were good they said.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
